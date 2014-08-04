@@ -1,2 +1,2 @@
-codecademy-aboutyou
-===================
+codecademy-about-you
+====================
